@@ -1,0 +1,32 @@
+section {
+    margin: 0;
+    padding: 80px;
+    font-size: 30px;
+    text-align: center;
+    background-image: url(images/donation1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.top {
+    padding: 10px;
+    font-size: 40px;
+    color: white;
+    font-weight: 500;
+}
+
+.peragraph {
+    padding: 10px;
+    font-size: 20px;
+    color: rgb(213, 57, 57);
+    font-weight: 400;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(165, 116, 42);
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+}
